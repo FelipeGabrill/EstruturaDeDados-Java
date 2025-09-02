@@ -1,5 +1,6 @@
 public class MatrixMultiply {
 	
+	//Ordem cúbica 
 	public static int[][] matrixMultiply(int[][] A, int[][] B) {
         int m = A.length;       
         int p = A[0].length;    

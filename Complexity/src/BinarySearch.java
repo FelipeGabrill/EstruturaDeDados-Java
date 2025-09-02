@@ -1,5 +1,6 @@
 public class BinarySearch {
 	
+	//Logarítmica 
 	public static void main(String[] args) {
         int[] v = {7, 13, 20, 25, 28, 31, 35, 39, 40, 45, 46, 48, 57, 59, 63, 71};
         System.out.println(binarySearch(39, v));

@@ -1,5 +1,6 @@
 public class SequentialSearch {
 	
+	//Sequential
 	public static int sequentialSearch(int elem, int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == elem) {
